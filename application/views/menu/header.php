@@ -12,5 +12,6 @@
 	<li><a href="<?php echo site_url('asiakas/etsi_tilaus');?>">etsi tilaus</a></li>
 	<li><a href="<?php echo site_url('asiakas/lisaa');?>">Lisää asiakas</a></li>
 	<li><a href="<?php echo site_url('asiakas/nayta_poistettavat');?>">Poista asiakas</a></li>
+	<li><a href="<?php echo site_url('asiakas/nayta_muokattavat_asiakkaat');?>">Muokkaa asiakkaita</a></li>
 </ul>
 
